@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+    
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#head{
+    background-color: rgb(240, 185, 193);
+}
+
+#planets{
+    width: 1345px;
+    height: 200px;
+}
+
+
+#divContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:rgb(253, 228, 232);
+}
+
+#dateContainer{
+    background-color: lightpink;
+}
+
+#date{
+ 
+}
+
+#btAnterior{
+    border-radius: 8%;
+    height: 35px;
+    width: 120px;
+    background-color:lightpink;
+    font-family: 'Dancing Script', cursive;
+}
+
+#btEspecifico{
+    border-radius: 8%;
+    height: 70px;
+    width: 100px;
+    background-color:lightpink;
+    font-family: 'Dancing Script', cursive; 
+}
+
+#btProximo{
+    border-radius: 8%;
+    height: 35px;
+    width: 120px;
+    background-color:lightpink;
+    font-family: 'Dancing Script', cursive; 
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    place-content: space-around;
+}
